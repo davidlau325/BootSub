@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link href="$1" rel="stylesheet" media="screen">
+]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>BootSub Load CSS Stylesheet</description>
+	<scope>text.html</scope>
+</snippet>

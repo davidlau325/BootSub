@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meta name="keywords" content="$1" />
+]]></content>
+	<tabTrigger>head</tabTrigger>
+	<description>BootSub Head Keyword</description>
+	<scope>text.html</scope>
+</snippet>

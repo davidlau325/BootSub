@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meta name="author" content="$1">
+]]></content>
+	<tabTrigger>head</tabTrigger>
+	<description>BootSub Head Author</description>
+	<scope>text.html</scope>
+</snippet>

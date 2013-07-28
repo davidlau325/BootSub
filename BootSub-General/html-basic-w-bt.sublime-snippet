@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="$1">
+   	<meta name="keywords" content="$2" />
+    <meta name="author" content="$3">
+      <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    $4
+  </body>
+</html>
+]]></content>
+	<tabTrigger>html</tabTrigger>
+	<description>BootSub Basic HTML w/ Bootstrap</description>
+	<scope>text.html</scope>
+</snippet>

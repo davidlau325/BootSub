@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link rel="icon" type="image/png" href="$1" />
+]]></content>
+	<tabTrigger>link</tabTrigger>
+	<description>BootSub favicon PNG</description>
+	<scope>text.html</scope>
+</snippet>

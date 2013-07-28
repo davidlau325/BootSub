@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<script src="$1"></script>
+]]></content>
+	<tabTrigger>script</tabTrigger>
+	<description>BootSub Load Script</description>
+	<scope>text.html</scope>
+</snippet>
