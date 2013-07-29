@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<div class="span2">
+		$1
+	</div>
+	<div class="span2">
+		$2
+	</div>
+	<div class="span2">
+		$3
+	</div>
+	<div class="span2">
+		$4
+	</div>
+	<div class="span2">
+		$5
+	</div>
+	<div class="span2">
+		$6
+	</div>
+</div>
+]]></content>
+	<tabTrigger>row6span</tabTrigger>
+	<description>BootSub Fixed 1 Row 6 Span</description>
+	<scope>text.html</scope>
+</snippet>

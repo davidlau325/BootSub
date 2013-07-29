@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	$1
+</div>
+]]></content>
+	<tabTrigger>row</tabTrigger>
+	<description>BootSub Fixed Row</description>
+	<scope>text.html</scope>
+</snippet>

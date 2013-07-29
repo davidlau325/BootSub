@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="span8 offset2">
+	$1
+</div>
+]]></content>
+	<tabTrigger>span8</tabTrigger>
+	<description>BootSub Span 8 Offset 2</description>
+	<scope>text.html</scope>
+</snippet>

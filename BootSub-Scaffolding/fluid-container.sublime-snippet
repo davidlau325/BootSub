@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid">
+  $1
+</div>
+]]></content>
+	<tabTrigger>container</tabTrigger>
+	<description>BootSub Fluid Container</description>
+	<scope>text.html</scope>
+</snippet>
