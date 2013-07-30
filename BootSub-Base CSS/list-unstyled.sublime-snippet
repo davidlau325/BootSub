@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ul class="unstyled">
+  <li>$1</li>
+</ul>
+]]></content>
+	<tabTrigger>list</tabTrigger>
+	<description>BootSub Unstyled List</description>
+	<scope>text.html</scope>
+</snippet>

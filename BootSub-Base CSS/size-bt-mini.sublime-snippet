@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+btn-mini 
+]]></content>
+	<tabTrigger>size</tabTrigger>
+	<description>BootSub Button Mini</description>
+	<scope>text.html</scope>
+</snippet>

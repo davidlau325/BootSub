@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<select name="$1">
+  <option value="$2">$3</option>
+  <option value="$4">$5</option>
+</select>
+]]></content>
+	<tabTrigger>select</tabTrigger>
+	<description>BootSub Default Select</description>
+	<scope>text.html</scope>
+</snippet>

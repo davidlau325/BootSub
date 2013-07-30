@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ol>
+  <li>$1</li>
+</ol>
+]]></content>
+	<tabTrigger>list</tabTrigger>
+	<description>BootSub Ordered List</description>
+	<scope>text.html</scope>
+</snippet>

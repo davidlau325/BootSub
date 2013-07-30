@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<p class="lead">
+	$1
+</p>
+]]></content>
+	<tabTrigger>lead</tabTrigger>
+	<description>BootSub Lead body copy</description>
+	<scope>text.html</scope>
+</snippet>

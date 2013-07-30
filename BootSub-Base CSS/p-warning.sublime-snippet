@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-warning">
+	$1
+</p>
+]]></content>
+	<tabTrigger>p</tabTrigger>
+	<description>BootSub Warning Text</description>
+	<scope>text.html</scope>
+</snippet>

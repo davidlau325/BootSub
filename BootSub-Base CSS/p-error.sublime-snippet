@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-error">
+	$1
+</p>
+]]></content>
+	<tabTrigger>p</tabTrigger>
+	<description>BootSub Error Text</description>
+	<scope>text.html</scope>
+</snippet>

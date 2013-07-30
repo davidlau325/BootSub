@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<table class="table">
+	<tbody>
+  		<tr>
+  			<td>$1</td>
+  		</tr>
+	</tbody>
+</table>
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<description>BootSub Default Style Table</description>
+	<scope>text.html</scope>
+</snippet>

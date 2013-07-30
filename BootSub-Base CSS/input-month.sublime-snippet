@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Not Supported At IE and Firefox -->
+<input type="month" name="$1">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub Month Input</description>
+	<scope>text.html</scope>
+</snippet>

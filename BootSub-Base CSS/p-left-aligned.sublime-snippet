@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-left">
+	$1
+</p>
+]]></content>
+	<tabTrigger>p</tabTrigger>
+	<description>BootSub Left Aligned Text</description>
+	<scope>text.html</scope>
+</snippet>

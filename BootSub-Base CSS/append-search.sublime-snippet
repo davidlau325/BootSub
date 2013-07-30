@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<form class="form-search">
+  <div class="input-append">
+    <input type="text" class="span2 search-query" name="$1" placeholder="$2">
+    <button type="submit" class="btn">Search</button>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>append</tabTrigger>
+	<description>BootSub Search Append</description>
+	<scope>text.html</scope>
+</snippet>

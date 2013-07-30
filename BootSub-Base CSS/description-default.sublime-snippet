@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<dl>
+  <dt>$1</dt>
+  <dd>$2</dd>
+</dl>
+]]></content>
+	<tabTrigger>description</tabTrigger>
+	<description>BootSub Default Description</description>
+	<scope>text.html</scope>
+</snippet>

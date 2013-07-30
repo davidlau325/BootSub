@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<label class="radio">
+  <input type="radio" name="$1" value="$2" checked>
+  $3
+</label>
+]]></content>
+	<tabTrigger>radio</tabTrigger>
+	<description>BootSub Checked Radio</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<form action="$1" method="$2">
+  <fieldset>
+    <legend>$2</legend>
+    $3
+    <button type="submit" class="btn">Submit</button>
+  </fieldset>
+</form>
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<description>BootSub Default Form</description>
+	<scope>text.html</scope>
+</snippet>

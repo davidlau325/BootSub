@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Not Supported At IE and Firefox -->
+<input type="week" name="$1">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub Week Input</description>
+	<scope>text.html</scope>
+</snippet>

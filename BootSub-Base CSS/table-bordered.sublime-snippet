@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<table class="table table-bordered">
+	<tbody>
+  		<tr>
+  			<td>$1</td>
+  		</tr>
+  	</tbody>
+</table>
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<description>BootSub Bordered Style Table</description>
+	<scope>text.html</scope>
+</snippet>

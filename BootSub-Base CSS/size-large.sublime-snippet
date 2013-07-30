@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+class="input-large"
+]]></content>
+	<tabTrigger>size</tabTrigger>
+	<description>BootSub Input Large</description>
+	<scope>text.html</scope>
+</snippet>

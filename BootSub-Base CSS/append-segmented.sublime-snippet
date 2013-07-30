@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-append">
+    <input type="text" name="$1" placeholder="$2">
+	<div class="btn-group">
+        <button class="btn">$3</button>
+        <button class="btn dropdown-toggle" data-toggle="dropdown">
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+           <li>$4</li>
+        </ul>
+    </div>
+</div>
+]]></content>
+	<tabTrigger>append</tabTrigger>
+	<description>BootSub Button Segmented Dropdowns Append</description>
+	<scope>text.html</scope>
+</snippet>

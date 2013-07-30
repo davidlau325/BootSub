@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn btn-primary" type="button">$1</button>
+]]></content>
+	<tabTrigger>button</tabTrigger>
+	<description>BootSub Primary Button</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="help-block">$1</span>
+]]></content>
+	<tabTrigger>span</tabTrigger>
+	<description>BootSub Block Help Text</description>
+	<scope>text.html</scope>
+</snippet>

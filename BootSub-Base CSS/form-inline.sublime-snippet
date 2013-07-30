@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<form class="form-inline" action="$1" method="$2">
+	$3
+  <button type="submit" class="btn">$4</button>
+</form>
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<description>BootSub Inline Form</description>
+	<scope>text.html</scope>
+</snippet>

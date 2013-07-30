@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn btn-inverse" type="button">$1</button>
+]]></content>
+	<tabTrigger>button</tabTrigger>
+	<description>BootSub Inverse Button</description>
+	<scope>text.html</scope>
+</snippet>

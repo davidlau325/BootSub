@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-prepend">
+  <div class="btn-group">
+    <button class="btn dropdown-toggle" data-toggle="dropdown">
+      $1
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li>$2</li>
+    </ul>
+  </div>
+  <input class="span2" name="$3" placeholder="$4" type="text">
+</div>
+]]></content>
+	<tabTrigger>prepend</tabTrigger>
+	<description>BootSub Button Dropdowns Prepend</description>
+	<scope>text.html</scope>
+</snippet>

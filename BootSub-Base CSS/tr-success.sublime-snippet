@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<tr class="success">
+	<td>$1</td>
+</tr>
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<description>BootSub Success Table Row</description>
+	<scope>text.html</scope>
+</snippet>

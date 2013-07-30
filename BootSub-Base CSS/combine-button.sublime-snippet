@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-prepend input-append">
+  <button class="btn" type="button">$1</button>
+  <input class="span2" type="text" name="$2" placeholder="$3">
+  <button class="btn" type="button">$4</button>
+</div>
+]]></content>
+	<tabTrigger>combine</tabTrigger>
+	<description>BootSub Button Combine</description>
+	<scope>text.html</scope>
+</snippet>

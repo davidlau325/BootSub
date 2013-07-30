@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<img src="$1" alt="$2" class="img-polaroid">
+]]></content>
+	<tabTrigger>img</tabTrigger>
+	<description>BootSub Polaroid Image</description>
+	<scope>text.html</scope>
+</snippet>

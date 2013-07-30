@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="controls">
+	$1
+</div>
+]]></content>
+	<tabTrigger>controls</tabTrigger>
+	<description>BootSub Controls</description>
+	<scope>text.html</scope>
+</snippet>

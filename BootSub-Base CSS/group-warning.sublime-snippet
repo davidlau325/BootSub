@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="control-group warning">
+    <label class="control-label">$1</label>
+    <div class="controls">
+      $2
+    </div>
+</div>
+]]></content>
+	<tabTrigger>group</tabTrigger>
+	<description>BootSub Warning Form Control Group</description>
+	<scope>text.html</scope>
+</snippet>

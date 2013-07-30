@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Not Supported At Safari -->
+<input type="url" name="$1">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub Url Input</description>
+	<scope>text.html</scope>
+</snippet>

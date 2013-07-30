@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<blockquote>
+  <p>$1</p>
+</blockquote>
+]]></content>
+	<tabTrigger>blockquote</tabTrigger>
+	<description>BootSub Default Blockquote</description>
+	<scope>text.html</scope>
+</snippet>

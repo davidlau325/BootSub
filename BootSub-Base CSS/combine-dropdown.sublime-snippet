@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-prepend input-append">
+  <div class="btn-group">
+    <button class="btn dropdown-toggle" data-toggle="dropdown">
+      $1
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li>$2</li>
+    </ul>
+  </div>
+  <input class="span2" type="text" name="$3" placeholder="$4">
+  <div class="btn-group">
+    <button class="btn dropdown-toggle" data-toggle="dropdown">
+      $5
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li>$6</li>
+    </ul>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>combine</tabTrigger>
+	<description>BootSub Button Dropdowns Combine</description>
+	<scope>text.html</scope>
+</snippet>

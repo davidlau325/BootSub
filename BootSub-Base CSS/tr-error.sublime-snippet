@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<tr class="error">
+	<td>$1</td>
+</tr>
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<description>BootSub Error Table Row</description>
+	<scope>text.html</scope>
+</snippet>

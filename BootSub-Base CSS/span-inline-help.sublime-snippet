@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="help-inline">$1</span>
+]]></content>
+	<tabTrigger>span</tabTrigger>
+	<description>BootSub Inline Help Text</description>
+	<scope>text.html</scope>
+</snippet>

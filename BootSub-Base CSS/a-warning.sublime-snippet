@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn btn-warning" href="$1">$2</a>
+]]></content>
+	<tabTrigger>a</tabTrigger>
+	<description>BootSub Warning Anchor</description>
+	<scope>text.html</scope>
+</snippet>

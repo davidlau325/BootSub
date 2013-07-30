@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<tr>
+	<td>$1</td>
+</tr>
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<description>BootSub Default Table Row</description>
+	<scope>text.html</scope>
+</snippet>

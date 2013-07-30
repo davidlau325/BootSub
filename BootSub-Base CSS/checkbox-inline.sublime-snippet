@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<label class="checkbox inline">
+  <input type="checkbox" value="$1">
+  $2 
+</label>
+]]></content>
+	<tabTrigger>checkbox</tabTrigger>
+	<description>BootSub Inline Checkbox</description>
+	<scope>text.html</scope>
+</snippet>

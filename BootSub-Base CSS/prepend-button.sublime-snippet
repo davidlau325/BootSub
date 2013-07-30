@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-prepend">
+  <button class="btn" type="button">$1</button>
+  <input class="span2" type="text" name="$2" placeholder="$3">
+</div>
+]]></content>
+	<tabTrigger>prepend</tabTrigger>
+	<description>BootSub Button Prepend</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<option value="$1">$2</option>
+]]></content>
+	<tabTrigger>option</tabTrigger>
+	<description>BootSub Option</description>
+	<scope>text.html</scope>
+</snippet>

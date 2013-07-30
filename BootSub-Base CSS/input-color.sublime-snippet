@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Only Supported At Google Chrome and Opera -->
+<input type="color" name="$1">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub Color Input</description>
+	<scope>text.html</scope>
+</snippet>

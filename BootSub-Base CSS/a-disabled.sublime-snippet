@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn disabled" href="$1">$2</a>
+]]></content>
+	<tabTrigger>a</tabTrigger>
+	<description>BootSub Disabled Anchor</description>
+	<scope>text.html</scope>
+</snippet>

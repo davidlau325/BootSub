@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<p class="muted">
+	$1
+</p>
+]]></content>
+	<tabTrigger>p</tabTrigger>
+	<description>BootSub Muted Text</description>
+	<scope>text.html</scope>
+</snippet>

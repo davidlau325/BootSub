@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-append">
+  <input class="span2" type="text" name="$1" placeholder="$2">
+  <span class="add-on">$3</span>
+</div>
+]]></content>
+	<tabTrigger>append</tabTrigger>
+	<description>BootSub Text Append</description>
+	<scope>text.html</scope>
+</snippet>

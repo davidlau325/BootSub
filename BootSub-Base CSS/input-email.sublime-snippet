@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Not Supported At Safari -->
+<input type="email" name="$1" placeholder="$2">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub Email Input</description>
+	<scope>text.html</scope>
+</snippet>

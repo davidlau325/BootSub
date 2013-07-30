@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+btn-large 
+]]></content>
+	<tabTrigger>size</tabTrigger>
+	<description>BootSub Button Large</description>
+	<scope>text.html</scope>
+</snippet>

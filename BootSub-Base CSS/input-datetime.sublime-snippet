@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Only Supported At Safari and Opera -->
+<input type="datetime" name="$1">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub DateTime Input</description>
+	<scope>text.html</scope>
+</snippet>

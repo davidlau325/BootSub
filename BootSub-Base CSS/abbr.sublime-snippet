@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<abbr title="$1" class="initialism">$2</abbr>
+]]></content>
+	<tabTrigger>abbr</tabTrigger>
+	<description>BootSub Abbreviations</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Not Supported At Firefox -->
+<input type="number" name="$1" min="$2" max="$3" step="$4" value="$5">
+]]></content>
+	<tabTrigger>input</tabTrigger>
+	<description>BootSub Number Input</description>
+	<scope>text.html</scope>
+</snippet>

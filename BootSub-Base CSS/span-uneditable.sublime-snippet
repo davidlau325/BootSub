@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="input-medium uneditable-input">$1</span>
+]]></content>
+	<tabTrigger>span</tabTrigger>
+	<description>BootSub Uneditable Input</description>
+	<scope>text.html</scope>
+</snippet>

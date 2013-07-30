@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-append">
+  <input class="span2" name="$1" placeholder="$2" type="text">
+  <div class="btn-group">
+    <button class="btn dropdown-toggle" data-toggle="dropdown">
+      $3
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li>$4</li>
+    </ul>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>append</tabTrigger>
+	<description>BootSub Button Dropdowns Append</description>
+	<scope>text.html</scope>
+</snippet>

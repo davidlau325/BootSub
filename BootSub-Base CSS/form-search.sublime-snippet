@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<form class="form-search" action="$1" method="$2">
+  <input type="text" class="search-query" name="$3">
+  <button type="submit" class="btn">Search</button>
+</form>
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<description>BootSub Search Form</description>
+	<scope>text.html</scope>
+</snippet>

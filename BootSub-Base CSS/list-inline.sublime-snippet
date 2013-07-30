@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ul class="inline">
+  <li>$1</li>
+</ul>
+]]></content>
+	<tabTrigger>list</tabTrigger>
+	<description>BootSub Inline List</description>
+	<scope>text.html</scope>
+</snippet>
