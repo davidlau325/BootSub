@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group btn-group-vertical">
+  <button class="btn">$1</button>
+  <button class="btn">$2</button>
+</div>
+]]></content>
+	<tabTrigger>group</tabTrigger>
+	<description>BootSub Vertical Button Group </description>
+	<scope>text.html</scope>
+</snippet>

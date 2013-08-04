@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<li class="divider"></li>
+]]></content>
+	<tabTrigger>divider</tabTrigger>
+	<description>BootSub Divider</description>
+	<scope>text.html</scope>
+</snippet>

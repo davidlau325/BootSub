@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav nav-pills">
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+        $1
+        <b class="caret"></b>
+      </a>
+    <ul class="dropdown-menu">
+      <li><a tabindex="-1" href="$2">$3</a></li>
+    </ul>
+  </li>
+</ul>
+]]></content>
+	<tabTrigger>nav</tabTrigger>
+	<description>BootSub Pills with Dropdown</description>
+	<scope>text.html</scope>
+</snippet>

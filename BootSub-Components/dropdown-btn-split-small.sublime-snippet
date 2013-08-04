@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group">
+  <button class="btn btn-small">$1</button>
+  <button class="btn btn-small dropdown-toggle" data-toggle="dropdown">
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a tabindex="-1" href="#">$2</a></li>
+  </ul>
+</div>
+]]></content>
+	<tabTrigger>dropdown</tabTrigger>
+	<description>BootSub Small Split Button Dropdown</description>
+	<scope>text.html</scope>
+</snippet>

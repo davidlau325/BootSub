@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<ul class="dropdown-menu" role="menu">
+  <li><a tabindex="-1" href="$1">$2</a></li>
+  <li class="divider"></li>
+  <li><a tabindex="-1" href="$3">$4</a></li>
+</ul>
+]]></content>
+	<tabTrigger>dropdown</tabTrigger>
+	<description>BootSub Dropdown Menu</description>
+	<scope>text.html</scope>
+</snippet>
